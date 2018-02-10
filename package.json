@@ -7,7 +7,7 @@
     "url": "git+https://github.com/krish426/originalprice2018.git"
   "license": "MIT",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
